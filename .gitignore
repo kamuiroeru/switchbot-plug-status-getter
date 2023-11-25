@@ -1,4 +1,7 @@
 settings.ini
+switchbot-plugs.db
 
 .venv
 __pycache__
+
+temp
